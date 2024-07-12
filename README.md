@@ -54,5 +54,7 @@ The Employee Management System (EMS) is a simple console-based application built
     Enter your choice: 3
     
     Exiting...
-**Contributors**/n
+**Contributors**
+
+
 ***Harshith R. Harekar***
