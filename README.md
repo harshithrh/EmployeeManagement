@@ -21,3 +21,38 @@ The Employee Management System (EMS) is a simple console-based application built
    ```bash
    git clone https://github.com/harshithrh/EmployeeManagement/blob/main/main.cpp
    cd employee-management-system
+2. **Compile and Run**:
+   ```bash
+   g++ -o main main.cpp
+   ./main
+3. **Follow the on-screen prompts to add employees, display records, and exit the program**:
+   **Example:**
+   ```bash
+   $ ./main
+
+    Employee Management System
+    
+    1. Add Employee
+    2. Display Employees
+    3. Exit
+    
+    Enter your choice: 1
+    
+    Enter employee name: John Doe
+    Enter employee age: 30
+    Enter employee department: Sales
+    Enter employee salary: 50000
+    Employee added successfully!
+    
+    Enter your choice: 2
+    
+    Employees:
+    -----------------------------------
+    Name: John Doe, Age: 30, Department: Sales, Salary: $50000
+    -----------------------------------
+    
+    Enter your choice: 3
+    
+    Exiting...
+**Contributors**
+***Harshith R. Harekar***
