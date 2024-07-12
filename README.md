@@ -19,5 +19,5 @@ The Employee Management System (EMS) is a simple console-based application built
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your_username/employee-management-system.git
+   git clone https://github.com/harshithrh/EmplyeeManagement/blob/main/main.cpp
    cd employee-management-system
